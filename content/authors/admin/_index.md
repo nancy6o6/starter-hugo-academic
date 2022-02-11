@@ -6,11 +6,13 @@ title: Jing Dong
 superuser: true
 
 # Role/position/tagline
-role: Associate Research Fellow,Master's Supervisor
+role: Associate Research Fellow, Master's Supervisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Automation,Chinese Academy of Sciences
+- name: National Laboratory of Pattern Recognition
+  url: http://www.nlpr.ia.ac.cn/cn/index.html
+- name: Institute of Automation, Chinese Academy of Sciences
   url: http://www.ia.cas.cn
 
 # Short bio (displayed in user profile at end of posts)
