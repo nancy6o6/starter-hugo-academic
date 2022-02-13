@@ -1,8 +1,8 @@
 ---
 # Display name
 title: 
-- 董晶
-- Jing Dong
+- Chinese name: 董晶
+- English name: Jing Dong
 
 # Is this the primary user of the site?
 superuser: true
