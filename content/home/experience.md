@@ -25,25 +25,16 @@ experience:
   - title: Associate Research Fellow
     company: Institute of Automation, Chinese Academy of Sciences
     company_url: http://www.ia.cas.cn/
-    company_logo: org-gc
     location: Beijing
-    date_start: '2014-09'
+    date_start: '2014-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
         
   - title: Research Assistant
     company: Institute of Automation, Chinese Academy of Sciences
     company_url: http://www.ia.cas.cn/
-    company_logo: org-x
     location: California
-    date_start: '2010-07'
-    date_end: '2014-10'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2010-07-01'
+    date_end: '2014-10-31'
 
 design:
   columns: '2'
