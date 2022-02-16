@@ -21,20 +21,24 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+experience:       
   - title: Associate Research Fellow
     company: Institute of Automation, Chinese Academy of Sciences
     company_url: http://www.ia.cas.cn/
+    company_logo: ''
     location: Beijing
     date_start: '2014-09'
     date_end: ''
+    description: ''
         
   - title: Research Assistant
     company: Institute of Automation, Chinese Academy of Sciences
     company_url: http://www.ia.cas.cn/
+    company_logo: ''
     location: Beijing
     date_start: '2010-07'
     date_end: '2014-10'
+    description: ''
 
 design:
   columns: '2'
