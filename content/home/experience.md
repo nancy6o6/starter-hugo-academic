@@ -32,7 +32,7 @@ experience:
   - title: Research Assistant
     company: Institute of Automation, Chinese Academy of Sciences
     company_url: http://www.ia.cas.cn/
-    location: California
+    location: Beijing
     date_start: '2010-07-01'
     date_end: '2014-10-31'
 
