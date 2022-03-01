@@ -46,4 +46,3 @@ url_pdf: http://arxiv.org/abs/1912.10833
 
 ---
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
