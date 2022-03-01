@@ -8,7 +8,7 @@ authors:
 - Ziwen He
 - Wei Wang
 - Xinsheng Xuan
-- Jing Dong
+- admin
 - Tieniu Tan
 
 date: "2019-12-01T00:00:00Z"
@@ -43,7 +43,3 @@ featured: False
 #   url: http://example.org
 
 url_pdf: http://arxiv.org/abs/1912.10833
-
----
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
